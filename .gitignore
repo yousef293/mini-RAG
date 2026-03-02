@@ -1,0 +1,91 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# =========================
+# Virtual environments
+# =========================
+env/
+venv/
+ENV/
+.env/
+.venv/
+
+# Conda environments (sometimes created inside project)
+conda-env/
+.envs/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Environment variables
+# =========================
+.env
+
+# =========================
+# Testing / coverage
+# =========================
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+
+# =========================
+# Data / models (optional - uncomment if needed)
+# =========================
+# data/
+# models/
+# *.csv
+# *.h5
+# *.pkl
+
+# =========================
+# IDEs
+# =========================
+.idea/
+
+# =========================
+# mypy / type checking
+# =========================
+.mypy_cache/
+.dmypy.json
+dmypy.json
