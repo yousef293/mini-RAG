@@ -1,7 +1,7 @@
 # mini-RAG
 
 ### File structure for example
-'''bash
+```bash
 MINI-RAG
 │
 ├── app/
@@ -58,4 +58,4 @@ MINI-RAG
 ├── requirements.txt
 ├── .env
 └── README.md
-'''
+```
